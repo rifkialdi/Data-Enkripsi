@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         // NAMA : RIFKI ALDIANSYAH
         // UMUR : 18TAHUN
+        // KELAS : MOBILE
         val tempatData = getPreferences(Context.MODE_PRIVATE)
 
         idbtn_simpan.setOnClickListener {
